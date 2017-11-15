@@ -1,5 +1,6 @@
 figure#brand {
-    height: 100px;  
+    height: 200px;  
+    width: 100%;
 }
 
 #logo {
@@ -22,4 +23,10 @@ figure#brand {
 
 #explanations {
     margin: 10px auto 10px auto
+}
+
+.bioPic {
+  float: center;
+  height: 20px;
+  width: 20px;
 }
