@@ -1,3 +1,15 @@
-.brand {
+figure.brand {
   height: 100px;  
+}
+
+.pageMenu {
+    float: left;
+}
+
+.propertyPictures {
+    float: right;
+}
+
+.explanations {
+    margin: 10px auto 10px auto
 }
