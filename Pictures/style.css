@@ -1,7 +1,16 @@
 figure.brand {
-  height: 100px;  
+    height: 100px;  
 }
 
+.logo {
+    width: 20%;
+    height: 100%;
+}
+
+.shoreline {
+    width: 80%;
+    height: 100%;
+}
 .pageMenu {
     float: left;
 }
