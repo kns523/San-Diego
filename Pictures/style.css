@@ -1,24 +1,25 @@
-figure.brand {
+figure#brand {
     height: 100px;  
 }
 
-.logo {
+#logo {
     width: 20%;
     height: 100%;
 }
 
-.shoreline {
+#shoreline {
     width: 80%;
     height: 100%;
 }
-.pageMenu {
+
+#pageMenu {
     float: left;
 }
 
-.propertyPictures {
+#propertyPictures {
     float: right;
 }
 
-.explanations {
+#explanations {
     margin: 10px auto 10px auto
 }
