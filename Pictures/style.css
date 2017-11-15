@@ -15,6 +15,7 @@ figure#brand {
 
 #pageMenu {
     float: left;
+    padding: 10px;
 }
 
 #propertyPictures {
@@ -25,6 +26,13 @@ figure#brand {
     margin: 10px auto 10px auto
 }
 
+section#bios {
+  float: center;
+}
+
+ .bioBox {
+  width: 33%;
+}
 .bioPic {
   float: center;
   height: 20px;
