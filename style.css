@@ -20,6 +20,7 @@ img#shoreline {
     padding: 8px;
     padding-bottom: 10px;
     border: 2px solid;
+    margin: 0 0 0 10%;
 }
 
 h3 {
@@ -27,11 +28,16 @@ h3 {
     border: 2px solid;
 }
 
+section#overview {
+  text-align: center;
+  margin: 40px
+}
+
 section#propertyPictures {
-  width: 800px;
+  width: 900px;
   height: 400px;
   border: solid;
-  margin-right: 25%;
+  margin-right: 40%;
   margin: 10px;
   float: right;
 } 
@@ -43,26 +49,23 @@ form>button {
   width: 80px;
 }
 
-#explanations {
-    margin: 10px auto 10px auto
-}
-
 section#bios {
   float: center;
   clear: both;
 }
 
 div.explanation {
-  height: 200px;
-  width: 300px;
+  height: 300px;
+  width: 500px;
   border: solid 2px;
-  margin: 10px;
+  margin: 40px 10px 40px 40px;
   float: left;
 }
 
 section#explanations {
   clear: both;
-  float: center;
+  float: left;
+  margin: 0px 10% 0px 10%
 }
 
 .bioBox {
@@ -71,10 +74,7 @@ section#explanations {
     width: 28%; 
     border: solid;
     padding: 5px;
-}
-
-section#bios {
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 .bioPic {
