@@ -4,7 +4,8 @@ header {
     top: 0px;
     right: 0px;
     left: 0px;
-    border: solid;    
+    border: solid;   
+    background-color:  rgb(0, 0, 0);
 }
 
 img#logo {
