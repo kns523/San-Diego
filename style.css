@@ -5,6 +5,7 @@ header {
     right: 0px;
     left: 0px;
     border: solid;
+    
 }
 
 img#logo {
@@ -52,11 +53,11 @@ div.explanation {
   width: 200px;
   border: solid 2px;
   margin: 10px;
+  float: left;
 }
 
 section#explanations {
   clear: both;
-  float: left;
 }
 
 .bioBox {
@@ -68,10 +69,10 @@ section#explanations {
 }
 
 .bioPic {
-  margin-left: auto;
-  margin-right: auto;
   height: 80px;
   width: 80px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 footer {
