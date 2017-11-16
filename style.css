@@ -43,8 +43,8 @@ img#placeHolder {
   float: right;
 } 
 
-form>button {
-  padding: 16px;
+form>a>button {
+  padding: 19px;
   border-radius: 100px;
   margin: 8px;
   width: 80px;
