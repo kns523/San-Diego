@@ -7,7 +7,6 @@ header {
     left: 0px;
     border: solid;
 }
-
 img#logo {
     max-height: 200px;
 }
@@ -18,16 +17,20 @@ img#shoreline {
 
 #pageMenu {
     float: left;  
-    padding: 12px;
-    padding-bottom: 20px;
+    padding: 8px;
+    padding-bottom: 10px;
     border: 2px solid;
 }
 
+h3 {
+    text-align: center;
+    border: 2px solid;
+}
 
 form>button {
-  padding: 20px;
+  padding: 16px;
   border-radius: 100px;
-  margin: 10px;
+  margin: 8px;
   width: 80px;
 }
 
