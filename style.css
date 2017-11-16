@@ -28,20 +28,19 @@ h3 {
 }
 
 section#propertyPictures {
-  width: 500px;
+  width: 800px;
   height: 400px;
   border: solid;
-}
+  margin-right: 25%;
+  margin: 10px;
+  float: right;
+} 
 
 form>button {
   padding: 16px;
   border-radius: 100px;
   margin: 8px;
   width: 80px;
-}
-
-#propertyPictures {
-    float: right;
 }
 
 #explanations {
