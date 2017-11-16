@@ -14,8 +14,21 @@ img#shoreline {
 }
 
 #pageMenu {
-    float: left;
-    padding: 10px;
+    float: left;  
+    padding: 12px;
+    padding-bottom: 20px;
+    border: 2px solid;
+}
+
+h3 {
+    
+}
+
+form>button {
+  padding: 20px;
+  border-radius: 100px;
+  margin: 10px;
+  width: 80px;
 }
 
 #propertyPictures {
@@ -35,9 +48,13 @@ div.explanation {
   width: 100px;
   border: solid 2px;
   margin: 10px;
+}
+
+section#explanations {
   clear: both;
   float: left;
 }
+
  .bioBox {
     float:left;
     margin: 0 1.5%;
