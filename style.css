@@ -1,18 +1,19 @@
 header {
     position: fixed;
-    width: 100%;
     height: 18%;
-    top: 0px;
-    right: 0px;
-    left: 0px;
+    top: 10px;
+    right: 10px;
+    left: 10px;
     border: solid;
 }
 img#logo {
-    max-height: 200px;
+    max-height: 100%;
+    max-width: 20%
 }
 
 img#shoreline {
-    max-height: 200px;
+    max-height: 100%;
+    max-width: 80%;
 }
 
 #pageMenu {
