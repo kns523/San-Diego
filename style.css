@@ -20,7 +20,7 @@ img#shoreline {
     padding: 8px;
     padding-bottom: 10px;
     border: 2px solid;
-    margin: 0 0 0 10%;
+    margin: 5% 0 0 10%;
 }
 
 h3 {
@@ -30,10 +30,10 @@ h3 {
 
 section#overview {
   text-align: center;
-  margin: 40px
+  margin: 40px;
 }
 
-section#propertyPictures {
+img#placeHolder {
   width: 900px;
   height: 400px;
   border: solid;
@@ -58,7 +58,7 @@ div.explanation {
   height: 300px;
   width: 500px;
   border: solid 2px;
-  margin: 40px 10px 40px 40px;
+  margin: 80px 10px 120px 40px;
   float: left;
 }
 
@@ -74,7 +74,8 @@ section#explanations {
     width: 28%; 
     border: solid;
     padding: 5px;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
+
 }
 
 .bioPic {
