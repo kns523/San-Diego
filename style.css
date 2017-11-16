@@ -4,13 +4,13 @@ figure#brand {
 }
 
 img#logo {
-    width: 18%;
-    height: 200px;
+    max-width: 18%;
+    max-height: 200px;
 }
 
 img#shoreline {
-    width: 78%;
-    height: 200px;
+    max-width: 78%;
+    max-height: 200px;
 }
 
 #pageMenu {
