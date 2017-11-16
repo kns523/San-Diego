@@ -1,6 +1,10 @@
-figure#brand {
-    max-height: 200px;  
-    max-width: 100%; 
+header {
+    position: fixed;
+    width: 100%;
+    height: 18%;
+    top: 0px;
+    right: 0px;
+    left: 0px;
 }
 
 img#logo {
@@ -18,9 +22,6 @@ img#shoreline {
     border: 2px solid;
 }
 
-h3 {
-    ali
-}
 
 form>button {
   padding: 20px;
