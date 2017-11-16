@@ -90,4 +90,11 @@ footer {
   width: 100%;
   text-align: center;
   clear:both;
+  height: 1.5em;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  z-index:10;   
+  background-color: #3F0707;
+  color: #6BBDDD;
 }
