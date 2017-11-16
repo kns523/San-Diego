@@ -4,7 +4,7 @@ header {
     top: 10px;
     right: 10px;
     left: 10px;
-    border: solid;
+    z-index: 10;
 }
 img#logo {
     max-height: 100%;
@@ -65,7 +65,7 @@ section#explanations {
     width: 30%;
 }
 .bioPic {
-  float: center;
+  align-content: center;
   height: 80px;
   width: 80px;
 }
